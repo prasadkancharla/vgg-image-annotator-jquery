@@ -1,4 +1,4 @@
-# VGG jQuery Plugin
+# VGG Image Annotator - jQuery Plugin
 
 This project is to build a simple jQuery plugin for VGG Image Annotator library developed at https://gitlab.com/vgg/via.
 
